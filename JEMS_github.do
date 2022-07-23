@@ -1,3 +1,4 @@
+version 16.1
 clear
 set more off
 set memory 700m
